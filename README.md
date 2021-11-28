@@ -1,5 +1,10 @@
 # Vue Project
 
+## Avaliação Final 2
+<p align="center">
+  <img src="./src/assets/screen2.jpg"/>
+</p>
+
 ## Avaliação Final 1
 <p align="center">
   <img src="./src/assets/screen.png"/>
