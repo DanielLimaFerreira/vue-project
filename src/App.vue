@@ -37,6 +37,11 @@
 </template>
 
 <script>
+import Vuex from 'vuex'
+import Vue from 'vue'
+
+Vue.use(Vuex)
+
 import SystemBar from '@/components/SystemBar';
 import AppBar from '@/components/AppBar';
 import NavigationDrawer from '@/components/NavigationDrawer';

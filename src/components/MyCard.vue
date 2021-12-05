@@ -16,6 +16,10 @@
       {{cardInfo.subtitle}}
     </v-card-subtitle>
 
+    <v-card-subtitle>{{cardInfo.description}}</v-card-subtitle>
+
+   
+
     <v-card-actions>
       <v-btn
         color="orange lighten-2"
